@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MwangiN
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning c and python.
-- 💞️ I’m looking to collaborate on decentralized apps.
+- 🌱 I’m currently learning selenium with python.
+- 💞️ I’m looking to collaborate on Automation projects with python.
 - 📫 How to reach me, Email mwangitm1996@gmail.com
 
 <!---
