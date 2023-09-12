@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MwangiN
-- 👀 I’m interested in Python and Test Automation.
+- 👀 I’m interested in Test Automation with C# and Python.
 - 🌱 I’m currently learning selenium with python.
-- 💞️ I’m looking to collaborate on Automation projects with python.
+- 💞️ I’m looking to collaborate on Automation projects with C# or Python.
 - 📫 How to reach me, Email mwangitm1996@gmail.com
 
 <!---
