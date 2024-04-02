@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MwangiN
-- 👀 I’m interested in Test Automation with C# and Python.
+- 👀 I’m interested in Test Automation using Playwright with C# and Python.
 - 🌱 I’m currently learning selenium with python.
 - 💞️ I’m looking to collaborate on Automation projects with C# or Python.
 - 📫 How to reach me, Email mwangitm1996@gmail.com
