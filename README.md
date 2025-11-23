@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MwangiN
-- 👀 I’m interested in Test Automation using Playwright with C# and Python, and building decentralized apps.
-- 💞️ I’m looking to collaborate on Automation projects with C# or Python.
+- 👀 I’m interested in Test Automation using Playwright with JS,C# and Python, and building decentralized apps.
+- 💞️ I’m looking to collaborate on Automation projects with JS, C# or Python.
 - 📫 How to reach me, Email mwangitm1996@gmail.com
 
 <!---
